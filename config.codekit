@@ -22,7 +22,7 @@
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		}
 	},
 "hooks": [
@@ -214,7 +214,7 @@
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
-	"jadeOutputStyle": 1,
+	"jadeOutputStyle": 0,
 	"javascriptAutoOutputPathEnabled": 0,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
